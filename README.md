@@ -7,8 +7,10 @@ ortadaki pixelin renk değeri (gri renk) ile her köşenin pixeli farkı 50'den 
 renk değişimi yaşanmış. Bundan yararlanılarak filitreleme işlemi yapılır. Aşşağıdaki görselde bu renk değişimine örnek
 gösterebiliriz.
 
-# Code
 ![Ekran Resmi 2021-12-27 01 38 01](https://user-images.githubusercontent.com/25556230/147421579-5e4bf91a-228e-4f4b-9886-add2ccb17006.png)
+
+
+# Code
 ```
             LOCATION_LIST = [
                              self.location1, self.location2, self.location3,
