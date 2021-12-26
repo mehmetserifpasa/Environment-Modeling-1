@@ -1,6 +1,9 @@
 # Environment-Modeling-1
 * Kodu çalıştırmanız için car2.mp4 videosu klasörün içinde olması lazım. Buradan indirebilirsiniz: https://github.com/mehmetserifpasa/Car-Object-Detection-Example-1
 
+https://user-images.githubusercontent.com/25556230/147422113-e61587de-0026-459d-9437-5c6430d54bfd.mp4
+
+
 # Algorithm
 Algoritmanın mantığı şu şekilde çalışır. 3x3 matrise karşılık gelen her pixelin çevre pixelleri kontrol edilir. Eğer 
 ortadaki pixelin renk değeri (gri renk) ile her köşenin pixeli farkı 50'den büyükse şu çıkarıma varılır. Burada hızlı bir 
