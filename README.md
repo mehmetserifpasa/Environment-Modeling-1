@@ -30,3 +30,6 @@ uygunluk olarak ben bu sayıyı seçtim.
 # Note
 Bu algoritma tam bir şekilde kenarları algılamayabilir. Mesela çevre pixellerinin renk değeri ile kenar pixellerinin değeri
 birbirine yakınsa bu algoritma tespit etmede zorlanabilir.
+
+# Kaynaklar
+1- https://en.wikipedia.org/wiki/Edge_detection
